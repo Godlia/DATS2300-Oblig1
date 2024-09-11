@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Oppgave3",
+            "request": "launch",
+            "mainClass": "Oppgave3",
+            "projectName": "Oblig1_90a913d2"
+        },
+        {
+            "type": "java",
+            "name": "Oblig1UnitTest",
+            "request": "launch",
+            "mainClass": "Oblig1UnitTest",
+            "projectName": "Oblig1_90a913d2"
+        },
+        {
+            "type": "java",
+            "name": "Oppgave2",
+            "request": "launch",
+            "mainClass": "Oppgave2",
+            "projectName": "Oblig1_90a913d2"
+        },
+        {
+            "type": "java",
+            "name": "Partisjonering",
+            "request": "launch",
+            "mainClass": "Partisjonering",
+            "projectName": "Oblig1_90a913d2"
+        },
+        {
+            "type": "java",
+            "name": "FunctionLib",
+            "request": "launch",
+            "mainClass": "FunctionLib",
+            "projectName": "Oblig1_90a913d2"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Oppgave1",
+            "request": "launch",
+            "mainClass": "Oppgave1",
+            "projectName": "Oblig1_90a913d2"
+        }
+    ]
+}
